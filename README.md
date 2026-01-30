@@ -67,6 +67,25 @@ The app follows **MVVM architecture** and fetches **real-time weather data** usi
 
 ---
 
+
+## 🔄 How Caching Works
+### Each saved city stores:
+- 🏙️ City name
+- 📍 Latitude
+- 📍 Longitude
+- 🌡️ Last fetched temperature
+- Temperature data is fetched only when a city is selected
+- Until a city is tapped, its temperature remains unfetched
+
+---
+
+## ⚡ Benefits of Caching
+- 🚀 Faster load times
+- 📉 Reduced API calls
+- 🔌 Offline usability
+- 🧼 Clean Core Data model without optional fields
+- 🧱 Scalable foundation for future enhancements
+
 ## 📸 Screenshots
 
 <img width="554" height="1055" alt="Screenshot 2026-01-29 at 8 57 21 PM" src="https://github.com/user-attachments/assets/9ad9de30-607f-42b3-8435-3121545e08c8" />
@@ -86,8 +105,8 @@ The app follows **MVVM architecture** and fetches **real-time weather data** usi
 
 ### 🌙 Dark Mode
 
-<img width="1552" height="1012" alt="image" src="https://github.com/user-attachments/assets/556a9ee7-9601-4bdf-a77d-e00d67fc9959" />
 
+<img width="2032" height="1075" alt="Screenshot 2026-01-29 at 9 06 53 PM" src="https://github.com/user-attachments/assets/d4fbe456-caf6-49a0-985e-65942a5df90e" />
 
 
 
