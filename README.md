@@ -16,7 +16,7 @@ The app follows **MVVM architecture** and fetches **real-time weather data** usi
 ## 🌍 Data & API
 
 - 🧪 Started with **hard-coded city data**
-- 💾 Integrated **Swift Data** to persist city information
+- 💾 Integrated **Core Data** to persist city information
 - ➕ Users can **add any city by entering latitude & longitude**
 - 🌐 Fetches **real-time weather data** using **Open-Meteo API**
 - 📍 Weather requests are based on **coordinates (lat / lon)**
@@ -37,7 +37,7 @@ The app follows **MVVM architecture** and fetches **real-time weather data** usi
 
 ## 🗃️ Local Storage
 
-- Uses **Swift Data** to store:
+- Uses **Core Data** to store:
   - City name
   - Latitude
   - Longitude
@@ -69,14 +69,14 @@ The app follows **MVVM architecture** and fetches **real-time weather data** usi
 
 ## 📸 Screenshots
 
-<img width="526" height="1012" alt="image" src="https://github.com/user-attachments/assets/6f96c669-71ff-41eb-bf94-35ae1d60d506" />
+<img width="554" height="1055" alt="Screenshot 2026-01-29 at 8 57 21 PM" src="https://github.com/user-attachments/assets/9ad9de30-607f-42b3-8435-3121545e08c8" />
+
 
 
 ### ☀️ Light Mode
 
-<img width="522" height="992" alt="image" src="https://github.com/user-attachments/assets/00040b22-694d-4d4e-b8df-a1aabfcba407" />
-<img width="522" height="992" alt="image" src="https://github.com/user-attachments/assets/51a3482a-44f5-4d93-96c6-17f19ed3aad6" />
-<img width="522" height="992" alt="image" src="https://github.com/user-attachments/assets/54d71e7e-004f-4c8b-ad8f-35662b10547b" />
+<img width="554" height="1055" alt="Screenshot 2026-01-29 at 8 58 05 PM" src="https://github.com/user-attachments/assets/0147999d-04f2-4f8f-8a0d-edbb3d614542" />
+
 <img width="522" height="992" alt="image" src="https://github.com/user-attachments/assets/3fb73e78-d1b3-41aa-ba28-c4a30e26e454" />
 
 ### 🌙 Dark Mode
