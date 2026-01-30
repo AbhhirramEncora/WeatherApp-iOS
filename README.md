@@ -75,9 +75,14 @@ The app follows **MVVM architecture** and fetches **real-time weather data** usi
 
 ### ☀️ Light Mode
 
+<img width="554" height="1055" alt="Screenshot 2026-01-29 at 9 00 28 PM" src="https://github.com/user-attachments/assets/1bddd8fa-3d2b-4680-be84-a4de9298f355" />
+<img width="554" height="1055" alt="Screenshot 2026-01-29 at 9 03 26 PM" src="https://github.com/user-attachments/assets/22dd897e-c9a1-4e58-84bb-98f68a1eccef" />
 <img width="554" height="1055" alt="Screenshot 2026-01-29 at 8 58 05 PM" src="https://github.com/user-attachments/assets/0147999d-04f2-4f8f-8a0d-edbb3d614542" />
+<img width="554" height="1055" alt="Screenshot 2026-01-29 at 9 04 39 PM" src="https://github.com/user-attachments/assets/b9a229ec-8347-40d9-b7a5-efb3d9270ee8" />
+<img width="554" height="1055" alt="Screenshot 2026-01-29 at 9 05 22 PM" src="https://github.com/user-attachments/assets/b3605e96-ad0b-402e-b59f-af5774113e0e" />
+<img width="554" height="1055" alt="Screenshot 2026-01-29 at 9 05 40 PM" src="https://github.com/user-attachments/assets/46f0554c-d14c-4d56-9965-1c87660a4cdd" />
 
-<img width="522" height="992" alt="image" src="https://github.com/user-attachments/assets/3fb73e78-d1b3-41aa-ba28-c4a30e26e454" />
+
 
 ### 🌙 Dark Mode
 
