@@ -9,7 +9,7 @@ The app follows **MVVM architecture** and fetches **real-time weather data** usi
 
 - 🏠 **Landing Page** – App intro  
 - 📋 **List Page** – Displays saved cities  
-- 📍 **Detailed Page** – Shows live weather details of the selected city  
+- 📍 **Detailed Page** – Shows live weather details of the selected city and real time weather using #Geocoding
 
 ---
 
