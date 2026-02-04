@@ -69,19 +69,26 @@ The app follows **MVVM architecture** and fetches **real-time weather data** usi
 
 ## 📸 Screenshots
 
-<img width="526" height="1012" alt="image" src="https://github.com/user-attachments/assets/6f96c669-71ff-41eb-bf94-35ae1d60d506" />
+<img width="554" height="1055" alt="Screenshot 2026-02-03 at 9 03 38 PM" src="https://github.com/user-attachments/assets/9c52363f-f665-4108-af1f-5c8e087a2e12" />
 
 
 ### ☀️ Light Mode
 
-<img width="522" height="992" alt="image" src="https://github.com/user-attachments/assets/00040b22-694d-4d4e-b8df-a1aabfcba407" />
-<img width="522" height="992" alt="image" src="https://github.com/user-attachments/assets/51a3482a-44f5-4d93-96c6-17f19ed3aad6" />
-<img width="522" height="992" alt="image" src="https://github.com/user-attachments/assets/54d71e7e-004f-4c8b-ad8f-35662b10547b" />
-<img width="522" height="992" alt="image" src="https://github.com/user-attachments/assets/3fb73e78-d1b3-41aa-ba28-c4a30e26e454" />
+<img width="554" height="1055" alt="Screenshot 2026-02-03 at 9 04 10 PM" src="https://github.com/user-attachments/assets/a5d55c66-2797-4cc0-be3b-eac1e3ee83c1" />
+
+<img width="554" height="1055" alt="Screenshot 2026-02-03 at 9 05 46 PM" src="https://github.com/user-attachments/assets/3b3dcbf6-42ff-4eac-99e8-7955bb4defc7" />
+
+<img width="554" height="1055" alt="Screenshot 2026-02-03 at 9 06 05 PM" src="https://github.com/user-attachments/assets/b974f2e0-48f9-407a-9273-54a3249cfc4d" />
+
+<img width="554" height="1055" alt="Screenshot 2026-02-03 at 9 06 30 PM" src="https://github.com/user-attachments/assets/6e16f4f3-2664-458f-8515-2590c511938c" />
+
+<img width="554" height="1055" alt="Screenshot 2026-02-03 at 9 07 14 PM" src="https://github.com/user-attachments/assets/f434800c-7d03-4fa2-a9c3-bad002bea995" />
+
+<img width="554" height="1055" alt="Screenshot 2026-02-03 at 9 08 43 PM" src="https://github.com/user-attachments/assets/1d743f50-f90d-4964-97c1-454bf43d6de3" />
 
 ### 🌙 Dark Mode
 
-<img width="1552" height="1012" alt="image" src="https://github.com/user-attachments/assets/556a9ee7-9601-4bdf-a77d-e00d67fc9959" />
+<img width="2032" height="1073" alt="Screenshot 2026-02-03 at 9 09 40 PM" src="https://github.com/user-attachments/assets/1fad2fdf-6999-47ae-aa8c-2f3000960efe" />
 
 
 
@@ -91,7 +98,6 @@ The app follows **MVVM architecture** and fetches **real-time weather data** usi
 ## 🚀 Future Improvements
 
 - 🌎 Fetch multi-day weather forecasts  
-- 🗺️ Search cities by name using geocoding  
 - 🎨 More polished and animated UI  
 - 📊 Weather trends and charts  
 
